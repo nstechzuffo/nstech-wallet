@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="nstech-wallet.Data/nstech-wallet.Data.csproj" />
+  <Project Path="nstech-wallet.Domain/nstech-wallet.Domain.csproj" Id="81400d35-fd06-476b-a5e0-3761d6e33da4" />
+  <Project Path="nstech-wallet.Infra/nstech-wallet.Infra.csproj" />
+  <Project Path="nstech-wallet.Service/nstech-wallet.Service.csproj" />
+  <Project Path="nstech-wallet/nstech-wallet.csproj" Id="76d93619-1f71-45af-a719-ef140b02e9e4" />
+</Solution>
